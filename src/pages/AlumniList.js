@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 import AdminDash from '../component/AdminDash';
 import React from 'react';
 import { FaEdit, FaTrashAlt, FaEye } from 'react-icons/fa'; // Importing the required icons
@@ -84,7 +84,7 @@ export default function AlumniList() {
     </>
   );
 }
-=======
+
 import AdminDash from '../component/AdminDash';
 import React from 'react';
 import { FaEdit, FaTrashAlt, FaEye } from 'react-icons/fa'; // Importing the required icons
@@ -170,4 +170,3 @@ export default function AlumniList() {
     </>
   );
 }
->>>>>>> a7b0bbbf9ce2443d2de5290e518bc6b1412333ca
